@@ -16,8 +16,8 @@ setup(
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',
     url='https://github.com/seekersoftec/cryptoforecast_io_scraper/',
-    author=[''],
-    author_email='',
+    author=['Seekersoftec'],
+    author_email='seekersoftec@gmail.com',
     license='Apache 2.0',
     classifiers=[
         'Development Status :: 4 - Beta',
