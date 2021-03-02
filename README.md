@@ -22,7 +22,6 @@ Allows simple interface for automating downloading of data from https://www.cryp
 
 ## Requirements
 
-- Written for both Python 2.7+ and Python 3.3+
 - Requires Requests
 
 ## API
