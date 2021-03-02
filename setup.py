@@ -15,7 +15,7 @@ setup(
     description='Simplified Pseudo API for CryptoForecast.io',
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',
-    url='https://github.com//',
+    url='https://github.com/seekersoftec/cryptoforecast_io_scraper/',
     author=[''],
     author_email='',
     license='Apache 2.0',
