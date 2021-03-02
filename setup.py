@@ -11,7 +11,7 @@ REQUIRED = open('requirements.txt').read()
 
 setup(
     name='cryptoforecast_io_scraper',
-    version='0.0.1',
+    version='0.1.0',
     description='Simplified Pseudo API for CryptoForecast.io',
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',
